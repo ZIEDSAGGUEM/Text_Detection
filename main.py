@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # read image
-image_path = "C:\\Users\\ZIEDSGM\\Desktop\\OIP.jpg"
+image_path = "your image path"
 img = cv2.imread(image_path)
 
 # instance text detector
